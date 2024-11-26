@@ -7,7 +7,6 @@ conda create -n xmuda python=3.8
 ```
 
 **B.** Install requirements
-```
 Use cuda-11.6
 ```
 conda activate xmuda	
