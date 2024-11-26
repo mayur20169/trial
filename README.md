@@ -1,13 +1,13 @@
 ## Get Started
 
 ### 1. Installation and Data Preparation
-```
 **A.** Create virtual-env.
-```shell
+```
 conda create -n xmuda python=3.8
 ```
 
 **B.** Install requirements
+```
 Use cuda-11.6
 ```
 conda activate xmuda	
